@@ -1,4 +1,4 @@
-# FireHawkCRM Tribute - Plausible Analytics Integration
+# FireHawk CRM Tributes - Plausible Analytics Integration
 Integration for FireHawkCRM tributes plugin which adds Plausible Analytics tracking code to the individual funerals/tribute pages.
 
 This will take the tracking code to your individual tributes/funerals so you can see visitor and pageviews for each.
